@@ -14,9 +14,8 @@
 <br>
 
 [👉 Visit The Website, try the app! 👈] (https://getustock.com)
-
+    
 <br>
-
 ++++++++++++++++++
 
 </div>

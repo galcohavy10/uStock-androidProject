@@ -2,6 +2,22 @@
 
 <img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/ec610cd2-81fc-4860-b1f4-111b6aa0d91f" width="200">
 
+<div align="center">
+   
+<br><br>
+
+[Visit The Website](https://getustock.com)
+
+</div>
+
+## uStock: A Growth Accelerator 💪🚀
+<div align="center">
+    
+Are you ready to level up? uStock is not just an app, it's a revolution in personal growth. We're here to gamify the process of self-improvement, transforming your journey into a compelling, shareable, and enjoyable experience. 
+
+You don't just work towards your goals, you compete, collaborate, track your progress, and ultimately, increase your "stock" in whatever you choose to pursue. Life is not just about the destination, but also the journey. And with uStock, we make sure your journey is one you'll love and benefit from!
+
+</div>
 
 ## Introduction
 Hey guys,

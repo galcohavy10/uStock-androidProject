@@ -1,21 +1,37 @@
 # Project Title: SwiftUI to Kotlin Conversion
 
-<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/ec610cd2-81fc-4860-b1f4-111b6aa0d91f" width="200">
+<div align="center">
 
 <div align="center">
-   
-<br><br>
 
-[Visit The Website](https://getustock.com)
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/ec610cd2-81fc-4860-b1f4-111b6aa0d91f" width="200">
+
+<br>
+
+<div align="center">
+
+++++++++++++++++++
+<br>
+
+[👉 Visit The Website, try the app! 👈] (https://getustock.com)
+
+<br>
+
+++++++++++++++++++
 
 </div>
 
-## uStock: A Growth Accelerator 💪🚀
-<div align="center">
-    
-Are you ready to level up? uStock is not just an app, it's a revolution in personal growth. We're here to gamify the process of self-improvement, transforming your journey into a compelling, shareable, and enjoyable experience. 
+</div>
 
-You don't just work towards your goals, you compete, collaborate, track your progress, and ultimately, increase your "stock" in whatever you choose to pursue. Life is not just about the destination, but also the journey. And with uStock, we make sure your journey is one you'll love and benefit from!
+
+
+## About uStock: The Growth Accelerator 💪🚀
+###### And your potential part in this
+<div align="leading">
+    
+uStock is not just an app, it's a revolution in  growth. We're here to gamify the process of self-improvement, transforming improvement journeys into a compelling, shareable, and enjoyable experience. 
+
+Life is not just about the destination, but also the journey. And with uStock, you'll help people find the meaning in their lives; the good within them.
 
 </div>
 

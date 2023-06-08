@@ -1,4 +1,4 @@
-# Project Title: SwiftUI to Kotlin Conversion
+# SwiftUI to Kotlin Conversion Competition
 
 <div align="center">
 
@@ -13,9 +13,9 @@
 ++++++++++++++++++
 <br>
 
-[👉 Visit The Website, try the app! 👈] (https://getustock.com)
-    
+[👉 Visit The Website, try the app! 👈](https://getustock.com) 
 <br>
+    
 ++++++++++++++++++
 
 </div>
@@ -122,7 +122,7 @@ Let's aim to do your best in this project. Enjoy the grind!
 
 </div>
 
-I know this shit is painful, but, you got this. Seriously we all suck in the beginning (づ｡◕‿‿◕｡)づ
+I know this shit can be painful, but, you got this. Seriously we all struggle and it's in this struggle you'll find reward. 
 
 
 Remember, coding is as much about resilience as it is about actual skill. The difficulties you overcome today are the foundations for the fucking wins of tomorrow. 

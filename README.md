@@ -142,7 +142,7 @@ Reference code in this repository for help:
 
 
    ***In the FrontendAPI folder***
-- API_Function descriptions.txt
-- SignUpViewModel
-- LogInViewModel
+- API_Function descriptions.md //this describes the functionality of api files below
+- SignUpViewModel //talking to server for sign up
+- LogInViewModel //talking to server for log in
 

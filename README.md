@@ -127,16 +127,22 @@ I know this shit is painful, but, you got this. Seriously we all suck in the beg
 
 Remember, coding is as much about resilience as it is about actual skill. The difficulties you overcome today are the foundations for the fucking wins of tomorrow. 
 
-<div align="center">
 
  **Keep pushing, keep learning, and keep coding!**
 
 </div>
 
-Files attached to the homepage of this github for reference:
+Reference code in this repository for help:
+
+   ***In the Frontend folder***
 - AuthenticationView.swift
 - LearnMoreView.swift
 - LogInView.swift
 - SignUpView.swift
+
+
+   ***In the FrontendAPI folder***
 - API_Function descriptions.txt
+- SignUpViewModel
+- LogInViewModel
 

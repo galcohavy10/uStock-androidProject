@@ -94,7 +94,7 @@ Let's aim to do your best in this project. Enjoy the grind!
 I know this shit is painful, but, you got this. Seriously we all suck in the beginning (づ｡◕‿‿◕｡)づ
 
 
-Remember, coding is as much about resilience as it is about problem-solving. The difficulties you overcome today are the foundations for the triumphs of tomorrow. 
+Remember, coding is as much about resilience as it is about actual skill. The difficulties you overcome today are the foundations for the fucking wins of tomorrow. 
 
 <div align="center">
 

@@ -6,11 +6,39 @@
 ## Introduction
 Hey guys,
 
-Multiple people will be working on this project simultaneously to see who can build the best one. Do not upload your work to GitHub until June 15th.
+Multiple people will be working on this project simultaneously to see who can build the best one. Do not upload your work to GitHub until June 20th.
 
 Create the code on your computer and you will have a chance to make a commit later on.
 
-You are tasked with converting the existing SwiftUI (iPhone) Views `AuthenticationView()`, `LogInView()`, and `SignUpView()` to Kotlin for Android. You are striving to bring a seamless user experience to both iOS and Android users. Meaning they should be almost exactly the same.
+You are tasked with converting the existing SwiftUI (iPhone) Views `AuthenticationView()`, `LogInView()`, `SignUpView()` and -this part is optional-`LearnMoreView()` to Kotlin for Android. You are striving to bring a seamless user experience to both iOS and Android users. Meaning they should be almost exactly the same.
+
+### Reference Images
+
+<div align="center">
+
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/43e05790-a4fe-4230-a71b-5604c1f8408b" width="200"><br>
+<i>Figure 1 (above): An overview of the Authentication View. This view is the first screen that the user sees, providing the option to either log in or sign up.</i>
+
+<br><br>
+
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/43e05790-a4fe-4230-a71b-5604c1f8408b" width="200">
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/84e4da8c-e288-43f9-8700-35dc4cfe64f3" width="200">
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/22d9a310-b347-4f7d-9f64-0935c76cc355" width="200"><br>
+<i>Figure 2 (above): Detailed view of the SignUp View natural order. Here, users can enter their info to create their account.</i>
+
+<br><br>
+
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/642f2524-1eba-40e1-98b5-574d8aae9e09" width="200"><br>
+<i>Figure 3 (above): Representation of the Login View. This is where existing users can access their account.</i>
+
+<br><br>
+
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/2ac22300-1ec6-4f1c-a467-26a1c5c74e69" width="200">
+<img src="https://github.com/galcohavy10/auth-android-proj/assets/96891588/f6e8e437-8b90-4d72-b95a-1f3cf0865881" width="200"><br>
+<i>Figure 4 (above): Representation of the LearnMore View. This is where users who haven't signed up yet can learn more (hence the name) but don't worry about this, it's optional.</i>
+
+</div>
+
 
 ## Setup and Requirements
 
@@ -74,8 +102,9 @@ Remember, coding is as much about resilience as it is about problem-solving. The
 
 </div>
 
-Files attached below for reference:
+Files attached to the homepage of this github for reference:
 - AuthenticationView.swift
+- LearnMoreView.swift
 - LogInView.swift
 - SignUpView.swift
 - API_Function descriptions.txt

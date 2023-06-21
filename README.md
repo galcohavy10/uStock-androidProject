@@ -1,3 +1,4 @@
+## UPDATE: Competition closed. Winner: James.
 # SwiftUI to Kotlin Conversion Competition
 
 <div align="center">
